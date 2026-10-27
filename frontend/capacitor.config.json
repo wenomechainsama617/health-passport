@@ -1,0 +1,9 @@
+{
+  "appId": "com.univital.app",
+  "appName": "UniVital",
+  "webDir": "dist",
+  "server": {
+  "url": "http://10.48.39.237:5173",
+  "cleartext": true
+  }
+}
